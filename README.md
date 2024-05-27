@@ -17,15 +17,14 @@ This project is a Pomodoro Timer implemented using an ESP32 microcontroller, whi
 - Buzzer
 - Blynk App
 
-## Circuit Diagram
+## video
 
-![Circuit Diagram](images/circuit_diagram.png)
+![video Diagram](video/video.mp4)
 
 ## Project Image
-
 ![Project Image](images/project_image.png)
 ## Blynk style
-![Project Image](images/project_image.png)
+![blynk Image](images/blynk_style.png)
 
 ## Connections
 
