@@ -23,6 +23,7 @@ This project is a Pomodoro Timer implemented using an ESP32 microcontroller, whi
 
 ## Project Image
 ![Project Image](images/project_image.png)
+![Project Image](images/esp.jpg)
 ## Blynk style
 ![blynk Image](images/blynk_style.png.jpg)
 
